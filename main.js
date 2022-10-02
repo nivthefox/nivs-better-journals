@@ -1,4 +1,4 @@
-import { NivsBetterJournal } from "./nivs-better-journal";
+import { NivsBetterJournal } from "./nivs-better-journal.js";
 
 (function Main() {
     Hooks.on("init", () => {
