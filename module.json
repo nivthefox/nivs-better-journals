@@ -6,7 +6,8 @@
     "version": "0.1.0",
     "authors": [
         {
-            "name": "niv#0245"
+            "name": "Niv",
+            "discord": "niv#0245",
         }
     ],
     "minimumCoreVersion": "10",
@@ -16,6 +17,8 @@
         "verified": "10"
     },
     "esmodules": [
+        "nivs-better-journal.js",
+        "settings.js"
     ],
     "styles": [
     ],
